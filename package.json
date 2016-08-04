@@ -1,0 +1,19 @@
+{
+  "name": "event-listener-polyfill",
+  "version": "1.0.0",
+  "description": "eventListenerPolyfill ===================== IE6-IE8 Polyfill for missing `addEventListener` and `removeEventListener` Javascript methods.",
+  "main": "eventListenerIEPolyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pioh/eventListenerPolyfill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pioh/eventListenerPolyfill/issues"
+  },
+  "homepage": "https://github.com/pioh/eventListenerPolyfill#readme"
+}
